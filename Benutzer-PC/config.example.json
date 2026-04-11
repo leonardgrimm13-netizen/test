@@ -1,0 +1,6 @@
+{
+  "rustdesk_executable": "bin/rustdesk.exe",
+  "connect_args_prefix": ["--connect"],
+  "remember_last_ids": true,
+  "max_history_entries": 10
+}

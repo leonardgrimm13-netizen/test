@@ -1,0 +1,5 @@
+{
+  "rustdesk_executable": "bin/rustdesk.exe",
+  "support_args": [],
+  "show_confirmation_dialog": true
+}

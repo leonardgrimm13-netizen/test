@@ -1,0 +1,1 @@
+# Standardbibliothek reicht aus (tkinter ist bei Python unter Windows enthalten).
