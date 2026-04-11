@@ -1,5 +1,0 @@
-ultralytics
-PySide6
-mss
-numpy
-torch
